@@ -24,3 +24,8 @@ docs:
     source: openapi2.yaml
     location: /Документы/OpenAPI 2
     title: OpenAPI 2
+  doc1744545644408.doc1744626895618:
+    type: bpmnjs
+    source: mydoc.bpmn
+    location: /Документы/Диаграмма/Документ BPMN
+    title: Документ BPMN
