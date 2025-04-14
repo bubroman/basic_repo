@@ -14,3 +14,8 @@ docs:
     source: diagramma.excalidraw
     location: /Документы/Диаграмма
     title: Диаграмма
+  openapidoc:
+    type: OpenAPI
+    source: openapi.json
+    location: /Документы/OpenAPI
+    title: OpenAPI
