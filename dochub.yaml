@@ -29,3 +29,8 @@ docs:
     source: mydoc.bpmn
     location: /Документы/Диаграмма/Документ BPMN
     title: Документ BPMN
+  # Декларация стартового документа с системным идентификатором
+  dochub.welcome:
+    type: markdown
+    location: /Главная страница
+    source: main.md
