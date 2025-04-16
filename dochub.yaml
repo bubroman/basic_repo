@@ -34,3 +34,8 @@ docs:
     type: markdown
     location: /Главная страница
     source: main.md
+  doc1744545644408.doc1744800374056:
+    type: plantuml
+    source: plant_uml.puml
+    location: /Документы/Диаграмма/Новый Plant
+    title: Новый Plant
